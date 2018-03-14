@@ -1,0 +1,25 @@
+{
+  "name": "node-una-decrder",
+  "version": "0.0.1",
+  "description": "The node-una-decrder is a Node.js module which allows you to decode a structured message data sent by a UnaBiz Arduino library for UnaShield which is a SIGFOX transceiver module for Arduino.",
+  "main": "./index.js",
+  "files": [],
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UnaShield",
+    "Sigfox"
+  ],
+  "homepage": "https://github.com/futomi",
+  "author": "Futomi Hatano <futomi.hatano@gmail.com> (https://github.com/futomi)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/futomi/node-una-decoder.git"
+  },
+  "readmeFilename": "README.md"
+}
