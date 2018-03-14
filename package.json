@@ -1,7 +1,7 @@
 {
   "name": "node-una-decrder",
   "version": "0.0.1",
-  "description": "The node-una-decrder is a Node.js module which allows you to decode a structured message data sent by a UnaBiz Arduino library for UnaShield which is a SIGFOX transceiver module for Arduino.",
+  "description": "The node-una-decoder is a Node.js module which allows you to decode a structured message data sent by a UnaBiz Arduino library for UnaShield which is a SIGFOX transceiver module for Arduino.",
   "main": "./index.js",
   "files": [],
   "directories": {
