@@ -3,6 +3,8 @@ node-una-decoder
 
 The node-una-decoder is a Node.js module which allows you to decode a structured message data sent by a [UnaBiz Arduino library](https://github.com/UnaBiz/unabiz-arduino) for [UnaShield](https://unabiz.github.io/unashield/) which is a SIGFOX transceiver module for Arduino.
 
+If you are a perl-monger, you can use the [perl-una-decoder](https://github.com/futomi/perl-una-decoder).
+
 ## Dependencies
 
 * [Node.js](https://nodejs.org/en/) 4 +
